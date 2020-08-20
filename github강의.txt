@@ -1,0 +1,36 @@
+gpt-3(언어 인공지능)
+
+Mooc
+-coursera, edx, cs50, udacity
+
+
+-먼저 git프로그램 설치
+-github의 markdown을 지원해주는 프로그램 typora설치하기
+-gitbash를 사용하여 cmd창 이용하기
+
+
+1. git은 폴더단위로 파일을 관리한다.
+2. 관리 관련 내용은 .git/ 폴더안에 저장된다.
+3. git init으로 폴더를 관리하고 더 이상 관리하기 싫으면 rm -r .git/을 통해서 폴더를 지운다.
+4. git 상태를 저장 == commit  (현재 상태를 보기 위해서는 git status명령어 사용)
+5. SCM(Source Code Management)
+6. VCS(Version Control System)
+7. git config --global user.email "이메일" (이메일은 git에 가입된 이메일 사용하는게 좋은 그래야 log를 남길 수 있음)
+8. git config --global user.name "영문명"
+9. git diff --staged로 전과의 차이점을 볼 수 있다.
+10. gir remote add "별명" "진짜 주소" 로 주소 추가
+
+---------------
+1. git init
+ *git status
+2. git add
+3. git commit
+4. git log
+5. git push
+
+
+
+
+
+
+
